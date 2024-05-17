@@ -10,7 +10,19 @@ public class Application {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext run = SpringApplication.run(Application.class, args);
 		
-		run.close();
-	}
+
+      //HIS-200(This is part of HIS-200 related changes)		
+    public void doProcess(){
+
+             //Logic here
+}
+
+      //HIS-201(This is part of HIS-201 related changes)
+     public void doneProcess(){
+        //Logic here..
+
+}
+
+}
 
 }
