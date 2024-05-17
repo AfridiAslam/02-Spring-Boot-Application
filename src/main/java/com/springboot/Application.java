@@ -17,6 +17,12 @@ public class Application {
              //Logic here
 }
 
+      //HIS-201(This is part of HIS-201 related changes)
+     public void doneProcess(){
+        //Logic here..
+
+}
+
 }
 
 }
